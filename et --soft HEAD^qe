@@ -1,0 +1,83 @@
+[33mcommit 06c1f70179e45089f02fd9af9bba871e6e7a62e2[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m, [m[1;31morigin/rsschool-cv-html[m[33m)[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:39:02 2022 +0300
+
+    fix: поправил index.html
+
+[33mcommit 6a8f8878d72186ea11ab454d001b011f580c8108[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:34:59 2022 +0300
+
+    refactor: перенес CSS в папку со стилями
+
+[33mcommit e4df1b83781bd7ca4aa797449f5329adbfc73d9f[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:33:13 2022 +0300
+
+    fix: поправил index.html
+
+[33mcommit 82496f7c96481e7c64f0da2f1bd1306e37354e79[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:29:14 2022 +0300
+
+    fix: readme.md, поправил ссылку
+
+[33mcommit 2b3977f1b96a5fd019d1dab86cffd357649fc07a[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:27:09 2022 +0300
+
+    feat: add style.css
+
+[33mcommit 45e0328df7918dfc7d027b84b69dc8848080a2b3[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Wed Aug 17 21:25:16 2022 +0300
+
+    init: start CV#2. HTML, CSS & Git Basics
+
+[33mcommit 2bb03562408883ae944760ee1d58eb3e69f28cbe[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:21:48 2022 +0300
+
+    добавил автарку)
+
+[33mcommit ab29b3e8d023234cf86cfe114a75e80e72dafd20[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:14:32 2022 +0300
+
+    docs:5
+
+[33mcommit 354d5569004bc8dbc52d5c298fd3ee653dc5a627[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:13:21 2022 +0300
+
+    refactor:4
+
+[33mcommit 12ca204a52689d558eead63eb9697ab2da9788d4[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:11:48 2022 +0300
+
+    fix:3
+
+[33mcommit 559663e3d2c581b590992e63019cee673869d039[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:11:12 2022 +0300
+
+    feat:2
+
+[33mcommit 7330c1443b10702d8de40b3148bcaed5a4a8c7ae[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:10:25 2022 +0300
+
+    init:1
+
+[33mcommit a9dc890b9dff1ae37fa06538a519b4bc78f57a50[m
+Author: Dalas89 <filatovdv@live.ru>
+Date:   Tue Aug 16 22:07:54 2022 +0300
+
+    Added CV.md
+
+[33mcommit 1bb06da575fcf1ae37deb2ed658299d52773e0ba[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Dalas89 <111014120+Dalas89@users.noreply.github.com>
+Date:   Tue Aug 16 21:15:52 2022 +0300
+
+    Initial commit
